@@ -133,3 +133,10 @@ public class BonusServiceTest {
 В качестве решения второго задания пришлите ссылку на этот фикс-коммит на GitHub.
 
 ------
+<details closed>
+  <summary> Прежде чем ознакомиться с моим решением задачи, пожалуйста, подумайте над ней самостоятельно.</summary>
+  
+  ## Когда ты запустил тест и он не работает.
+  
+![xnidfnaqjhduzgrg619n8uvtau4](https://github.com/user-attachments/assets/81ae4206-77e5-4012-bb6e-5061463ae639)
+
